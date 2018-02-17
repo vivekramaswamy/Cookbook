@@ -5,3 +5,4 @@ Curd Rice
 Lemon Rice
 Tamrind Rice
 Bisibella
+Vadam
